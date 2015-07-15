@@ -3,10 +3,14 @@ myCppApps
 This repository dedicated to myOWN plain C++ programs I use for fun or daily purposes.
 
 These programs I have created by Visual Studio 2013 in command line mode by CL.
-If you wanna compile it yourself - go ahead. I'm not responsible for any possible damages.
+If you wanna compile it yourself - go ahead. I'm not responsible for any possible damages. ;)
 
 Codes description
 -------------------
+
+### myCppApps files
+
+* `shell.bat`: This bat file help to create the C++ develop environment on your Windows machine
 
 ### myCppApps folder
 
