@@ -14,6 +14,11 @@ Codes description
 
 ### myCppApps folder
 
+* `shareLauncher`: This application as example how to call Windows system command by C++ code. This works only on Windows platform.<br>
+   ***Requires :*** [Microsoft Visual Studio 2013][vs] preinstalled and Windows (R) 7 Pro SP1<br>
+   **Note :** To convert .rc into .res file use Microsoft (R) Windows (R) Resource Compiler rc.exe<br>
+   The z:\build is a build directory. The build.bat file starts the compilation process.
+
 * `moncontroller`: This small application help to send your monitor to sleep mode. This works only on Windows platform.<br>
    ***Requires :*** [Microsoft Visual Studio 2013][vs] preinstalled and Windows (R) 7 Pro SP1<br>
    **Note :** To convert .rc into .res file use Microsoft (R) Windows (R) Resource Compiler rc.exe<br>
